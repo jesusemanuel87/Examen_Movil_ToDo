@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Examen_Notas_ToDo</string>
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Cerrar navigation drawer</string>
+    <string name="nav_header_title">Parcial ToDo</string>
+    <string name="nav_header_subtitle">dispositivios.moviles@android.com</string>
+    <string name="nav_header_desc">Navigacion</string>
+    <string name="action_settings">Configuraciones</string>
+
+    <string name="menu_home">Notas</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Salir</string>
+    <string name="tContent">Contenido</string>
+    <string name="tvListNotes">Lista de Notas</string>
+    <string name="menu_contenido">Menu Contenido</string>
+    <string name="delete">Eliminar</string>
+    <string name="tvTitle">Notas</string>
+    <string name="menu_salir">Salir</string>
+</resources>
